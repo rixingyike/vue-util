@@ -1,5 +1,5 @@
-import time from './time'
+import moment from 'moment'
 
 export default {
-  time
+  moment
 }

@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import './util/time_test'
+import './util/index_test'
 
 Vue.config.productionTip = false
 
